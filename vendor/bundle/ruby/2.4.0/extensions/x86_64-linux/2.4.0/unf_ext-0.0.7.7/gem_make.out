@@ -1,0 +1,18 @@
+current directory: /home/riju/shikhagoel003.github.io/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby2.4 -I /usr/local/lib/site_ruby/2.4.0 -r ./siteconf20210714-3350-gpfyg6.rb extconf.rb
+/usr/lib/ruby/vendor_ruby/rubygems/defaults/operating_system.rb:10: warning: constant Gem::ConfigMap is deprecated
+/usr/lib/ruby/vendor_ruby/rubygems/defaults/operating_system.rb:10: warning: constant Gem::ConfigMap is deprecated
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/riju/shikhagoel003.github.io/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/riju/shikhagoel003.github.io/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/riju/shikhagoel003.github.io/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20210714-3350-in1s59
